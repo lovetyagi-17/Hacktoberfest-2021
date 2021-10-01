@@ -1,4 +1,4 @@
-// package Hacktoberfest-2021.lovetyagi-17;
+
 import java.util.Scanner;
 public class buyPlease {
   public static void main (String[] args) throws java.lang.Exception
